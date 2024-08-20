@@ -19,3 +19,4 @@ clone the repository
      . npm install axios
      . npm install chart.js react-chartjs-2 
 . Start the application with npm start.
+Live link-https://dashboard-accuknox.netlify.app/
