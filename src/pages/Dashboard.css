@@ -1,0 +1,22 @@
+
+.card {
+    height: 100%;
+}
+.offcanvas-items{
+    width: 480px !important;
+}
+.form-check-inputs{
+    width: 12px !important;
+    height: 16px;
+}
+.buttonGroup{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+

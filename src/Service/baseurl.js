@@ -1,0 +1,1 @@
+export const BASEURL="https://accuknox-data.onrender.com"
