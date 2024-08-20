@@ -1,4 +1,6 @@
 # accuknox-front-end
+
+
 DashBoard
 This project is a React-based dashboard application that utilizes JSON Server for data management and Chart.js for data visualization. The charts include Doughnut and StackedBarChart representations. React Bootstrap has been used for styling to ensure a responsive and user-friendly interface.
 
